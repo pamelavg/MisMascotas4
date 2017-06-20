@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="actionbar_name">Las Mascotas</string>
+    <string name="Rating">5</string>
+    <string name="acction_ver_favoritos">Favoritos</string>
+    <string name="menu_contacto">Contacto</string>
+    <string name="menu_acercade">Acerca de</string>
+    <string name="menu_configurarcuentaIns">Configurar Instagram</string>
+    <string name="menu_timelineinstagram">TimeLine Instagram</string>
+    <string name="et_nombre">Nombre</string>
+    <string name="et_email">Correo</string>
+    <string name="et_comentario">Comentario</string>
+    <string name="btn_enviarcomentario">Enviar Comentario...</string>
+    <string name="pnombre">Nombre</string>
+    <string name="pemail">Correo</string>
+    <string name="pcomentario">Comentario</string>
+    <string name="nombre_mascota_perfil">Connor</string>
+    <string name="mi_biografia">ID PVG</string>
+    <string name="mi_biografia1">Curso 4 de Android</string>
+    <string name="mi_biografia2">Semana 1</string>
+    <string name="mi_biografia3">Coursera</string>
+    <string name="mi_biografia4">2017</string>
+    <string name="et_usuario">Ingresar usuario</string>
+    <string name="btn_guardarcuenta">Guardar Cuenta</string>
+
+    <string name="pUsername">perritoconnor</string>
+    <string name="pIdUsername">5538249605</string>
+
+    <string name="oreothemightycat">oreothemightycat</string>
+    <string name="belliccat">belliccat</string>
+    <string name="perritoconnor">Mascota Favorita</string>
+    <string name="rufitomurciagonzalez">rufitomurciagonzalez</string>
+    <string name="zach_dog_24">zach_dog_24</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nombre_explicacion"></string>
+</resources>
